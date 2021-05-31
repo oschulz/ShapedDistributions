@@ -9,6 +9,6 @@ Template for Julia packages.
 """
 module ShapedVariates
 
-include("hello_world.jl")
+#include("var_trafos.jl")
 
 end # module

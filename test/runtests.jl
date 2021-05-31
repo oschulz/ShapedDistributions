@@ -3,5 +3,5 @@
 import Test
 
 Test.@testset "Package ShapedVariates" begin
-    include("test_hello_world.jl")
+    #include("test_var_trafos.jl")
 end # testset
