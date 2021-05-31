@@ -1,0 +1,14 @@
+name = "ShapedVariates"
+uuid = "3ae0db98-eead-4cfc-b6e3-b14ea8cd4962"
+version = "0.1.0"
+
+[deps]
+
+[compat]
+julia = "1"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
