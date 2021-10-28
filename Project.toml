@@ -12,17 +12,17 @@ Random = "9a3f8284-a2c9-5f02-9a11-845980a1fd5c"
 Statistics = "10745b16-79ce-11e8-11f9-7d13ad32a3b2"
 StatsBase = "2913bbd2-ae8a-5f71-8c99-4fb6c76f3a91"
 ValueShapes = "136a8f8c-c49b-4edb-8b98-f3d64d48be8f"
-VariateTransformRules = "4f7d1279-d061-4f1b-979a-3871c22fff2d"
+VariateTransformations = "d2983f3a-396f-458c-b4fd-0252a5b34449"
 
 [compat]
 ArgCheck = "1, 2"
 ArraysOfArrays = "0.5"
-ChainRulesCore = "0.9"
+ChainRulesCore = "0.9, 1"
 Distributions = "0.23, 0.24, 0.25"
 FillArrays = "0.7, 0.8, 0.9, 0.10, 0.11"
 StatsBase = "0.32, 0.33"
 ValueShapes = "0.9"
-VariateTransformRules = "0.1"
+VariateTransformations = "0.1"
 julia = "1.3"
 
 [extras]
